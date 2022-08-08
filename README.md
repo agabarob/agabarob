@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agabarob
+- 👋 Hi, I’m Robert Niyigaba
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on various projects
